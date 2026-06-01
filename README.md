@@ -6,8 +6,7 @@ The project focuses on smooth UI animations, clean component architecture, and r
 ---
 
 ## 🚀 Live Demo
-🔗 https://shohan11d.github.io/marvel-rivals-site  
-*(Update if deployed elsewhere)*
+🔗 https://marvelrivalssite-n8kuilrh5-mohammad-shohans-projects.vercel.app/
 
 ---
 
